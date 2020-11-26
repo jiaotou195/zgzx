@@ -1,0 +1,64 @@
+/* CSS Document */
+body{ margin:0px; padding:0px;  text-align:center; font-family:Arial, Helvetica, sans-serif; }
+form{ margin:0px; padding:0px;}
+ul{ margin:0px; padding:0px; list-style:none;}
+h1{ margin:0px; padding:0px;}
+input{outline:medium;}
+a{ color:#FFFFFF; text-decoration:none; cursor:pointer;}
+a:hover{ color: #FF0000; text-decoration:underline;}
+.main{ width:1196px; height:340px; background: url(../image/2.png) no-repeat; margin:0px auto; margin-top:340px;}
+.dq{ width:580px; height:263px; float:right; margin-right:60px; margin-top:20px;  text-align:left; color:#FFFFFF; font-size:28px; font-weight:bold}
+.dy{ width:580px; height:40px; line-height:40px; color:#FFFFFF;}
+.dy a{ color:#FFFFFF}
+.main_2{ width:1179px; height:357px;  margin:0px auto; margin-top:300px; text-align:center;}
+.search{ width:725px; height:60px; background: url(../image/4.png) no-repeat; margin:0px auto; text-align:left;}
+.wbk{width:490px; height:40px; line-height:40px; font-size:22px; color:#CCCCCC; border:none;}
+.an{ width:163px; height:55px; background:none; border:none; cursor:pointer;}
+.dq_2{ width:1193px; height:238px; background:url(../image/3.png); margin-top:60px;}
+.dy_l{ width:573px; height:238px; float:left;text-align:left; color:#FFFFFF; font-size:24px; font-weight:bold; margin-left:60px; margin-top:30px;}
+.dy_r{ width:449px; height:238px; float: right;;text-align:left; color:#FFFFFF; font-size:24px; font-weight:bold; margin-right:60px; margin-top:30px;}
+.foot{ width:730px; height:44px; float:right; position:absolute; right:80px; bottom:20px;}
+.f_1{ width:213px; height:44px; float:left; color:#FFFFFF; line-height:44px; font-size:22px; font-weight:bold}
+.f_2{ width:20px; height:38px; float:left;}
+.f_3{ width:476px; height:44px; float:left; }
+.f74{ width:476px; height:22px; line-height:22px; text-align:left; color:#FFFFFF;}
+.bg_1{ margin:0px; padding:0px;  text-align:center; font-family:Arial, Helvetica, sans-serif; background: url(../image/111.jpg) no-repeat fixed center;}
+.up_1{ width:100% ;height:190px; background: url(../image/6.jpg) no-repeat center;}
+.fh{ width:1136px; height:60px; margin:0px auto; padding-top:60px; padding-right:60px;}
+.fh img{ border:none; float:right; }
+.xx_1{ width:1193px; height:215px; margin:0px auto; border:5px solid #DF0207; margin-top:60px; background:#FFFFFF}
+.x1_l{ width:860px; height:195px; float:left; padding-left:40px; padding-top:20px; }
+.x1_l h1{ color:#666666; padding:0px; margin:0px; }
+.x1_r{ width:140px; height:100px; float:right;  margin-top:60px; margin-right:60px;}
+.fx{ width:140px; height:34px;}
+
+
+.dw{ width:140px; height:34px; margin-top:20px;}
+.xx_2{ width:1193px; height:1280px; border:5px solid #DF0207; margin:0px auto; margin-top:40px; background:#FFFFFF;}
+.title{ width:1193px; height:50px; line-height:50px;}
+.title ul{ width:1183px; height:40px; padding:5px; border-bottom:3px solid #DF0207}
+.title ul li{ width:120px; height:40px; float:left; background:#DF0207; line-height:40px;}
+.title ul li a{ color:#FFFFFF; font-size:18px; font-weight:bold; text-decoration:none}
+.selected{ color:#FF0000}
+.tag{ width:1193px; text-align:left; font-size:16px; }
+.title_1{ width:1193px; height:25px; text-align:left; padding-top:40px; padding-left:40px;}
+.table{ width:1173px; padding:10px;}
+.zz{ width:1183px; padding:5px; }
+.zz ul{ width:1183px; border:none}
+.zz ul li{ float:left; height:195px; margin-left:10px; width:auto; margin-top:10px; background:none; padding:5px; border:1px solid #CCCCCC; }  
+.bottom"{ width:100%; line-height:30px; text-align:center; background:#FFFFFF;}
+.cx{ width:1193px; height:30px; line-height:30px; margin:0px auto; border-bottom:1px dashed #DF0207; text-align:left;}
+
+.tp22{ width:100%; height:30px; background:#DBAB00;}
+.tp33{ width:100%; height:30px; line-height:30px; text-align:right; color:#FFFFFF; margin:0px auto; }
+
+.jg_bg{ width:100%;  background: url(../image/222.jpg) no-repeat fixed center; height:666px; margin:0px auto;}
+
+.f_4{ width:100%;  background:#BE0203; margin-top:40px;}
+.f_5{ width:100%px;  text-align: left; margin:0px auto; line-height:30px; padding:20px; color:#FFFFFF}
+
+.c_1{ width:1193px; height:300px; margin:0px auto; border:1px solid #BE0203; padding-top:100px; }
+.c_2{ width:1193px; height:40px; margin:0px auto; margin-top:600px; background:#FF0000; color:#FFFFFF; font-size:20px; line-height:40px; font-weight:bold; }
+.c_3{width:1193px; height:500px; margin:0px auto; border:1px solid #BE0203; margin-top:600px; padding-top:50px; }
+.f_6{ width:424px; height:459px; float:left;}
+.f_7{ width:500px; height:459px; float:right; }
